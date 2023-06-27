@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    width: 100%;
+}
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+}
